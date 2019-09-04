@@ -1,0 +1,26 @@
+[{
+      "position": 1,
+      "courseCode": "C1",
+      "courseName": "Maths",
+      "courseDesc": "Maths-I"
+    },
+    {
+      "position": 2,
+      "courseCode": "C2",
+      "courseName": "Physics",
+      "courseDesc": "Physical Sciences"
+    },
+    
+    {
+      "position": 3,
+      "courseCode": "C3",
+      "courseName": "Chemistry",
+      "courseDesc": "Chemisty Lab"
+    },
+    {
+      "position": 4,
+      "courseCode": "C4",
+      "courseName": "English",
+      "courseDesc": "Functional English"
+    }
+    ]
